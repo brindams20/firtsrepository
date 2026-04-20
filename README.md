@@ -1,2 +1,3 @@
 # firtsrepository
 this is my first repository
+author- me
